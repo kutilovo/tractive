@@ -1,0 +1,15 @@
+.gradle
+.mvn
+package-lock.json
+/build/
+/out/
+/target/
+/gradle/
+/.resourceCache/
+/node_modules/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
